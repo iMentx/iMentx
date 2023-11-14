@@ -44,7 +44,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: arturfedchyshyn@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime [here](https://discord.gg/3CmEkCyf7r)<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/iMentx/iMentx/issues)
 
 </p>
